@@ -1,0 +1,6 @@
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\TeamCityProject\WebProject\VSTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
