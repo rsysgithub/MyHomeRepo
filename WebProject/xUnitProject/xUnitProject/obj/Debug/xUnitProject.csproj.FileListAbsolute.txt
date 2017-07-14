@@ -1,0 +1,15 @@
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xUnitProject.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xUnitProject.pdb
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.abstractions.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.assert.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.core.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.execution.desktop.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.assert.xml
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.core.xml
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.execution.desktop.xml
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\obj\Debug\xUnitProject.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\obj\Debug\xUnitProject.pdb
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.runner.utility.net35.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\bin\Debug\xunit.runner.reporters.net452.dll
+C:\TeamCityProject\WebProject\xUnitProject\xUnitProject\obj\Debug\xUnitProject.csprojResolveAssemblyReference.cache
